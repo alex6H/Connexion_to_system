@@ -1,3 +1,3 @@
-# Connexion_to_system
+# Transformation of log files into KPIsv
 
-This is a scripte who give some KPI of users connexion to a system
+This is a script who give some KPI of users connexion from log files
